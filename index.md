@@ -8,7 +8,7 @@ profile_picture:
   <strong>Info</strong><br>
 </p>
 <p>
-
+  백승원
    Master's Graduate <br>from the <a href="http://pr.korea.ac.kr/" target="_blank">Pattern Recognition & Machine Learning (PRML) Laboratory</a><br>at <a href="https://www.korea.ac.kr/">Korea University</a> , currently seeking job opportunities.
 </p> 
 <p>
